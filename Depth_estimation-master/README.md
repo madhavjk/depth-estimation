@@ -32,7 +32,7 @@ Load the pretrained model if needed.
 #### Implementation of the Depth estimation using Densenet model is in the folder "Densenet_depth_model".
 
 
-## Dataset 
+## Dataset
 * [NYU Depth V2 (50K)](https://s3-eu-west-1.amazonaws.com/densedepth/nyu_data.zip) (4.1 GB): File is extraced while running the "train_mobilenetv2.ipynb".
 
 ## Download the pretrained model 
